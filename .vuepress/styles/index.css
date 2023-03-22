@@ -1,0 +1,6 @@
+.banner-brand__content {
+  .medium-zoom-image {
+    border-radius: 50%;
+    overflow: hidden;
+  }
+}
