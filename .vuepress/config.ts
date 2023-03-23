@@ -8,7 +8,6 @@ export default defineUserConfig({
   head: [["link", { rel: "icon", href: "/logo.jpg" }]],
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
-    colorMode: "dark",
     logo: "/logo.jpg",
     author: "ppYoung",
     authorAvatar: "/logo.jpg",
